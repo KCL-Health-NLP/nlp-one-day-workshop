@@ -7,18 +7,26 @@
 - Understand the need to process language when re-using electronic health records for research, the computational difficulties language poses, and how natural language processing (NLP) can help to solve these.
 - Appreciate the main paradigms of NLP, and their relative strengths and weaknesses.
 - Develop an overview of how language is represented computationally, and how these representations can be used to build models of text.
-- Gain a basic understanding of neural networks and their use in NLP.
+- Gain a basic understanding of neural networks, their use in NLP, and generative AI.
 - Gain practical experience of building simple NLP applications using Python.
 - Appreciate the broader health research context in which NLP can sit, and the development process needed to implement NLP in this context.
 
 
 ## Target audience and skills required
 
+- The course is aimed at early career health researchers who want to explore the basic concepts of NLP and its application to electronic health record text.
+- The course is not aimed primarily at those with an extensive computer science or data science background, though you are welcome to come along, and perhaps benefit from a different perspective.
+- This is not a theoretical course, though we will provide pointers for further reading after the course.
 
 ## Format
 
+The course will be delivered through:
 
-## Pre-course material
+- Pre-workshop video lectures and preparatory material.
+- A one day hands-on practical workshop. This will mainly consisat of Python practicals, interspersed with very short presentations.
+- Suggested reading for those of you who want to explore the topic further.
+
+## Pre-workshop material
 
 You can find links to some introductory videos below. You should watch these before the workshop. The lectures are taken from a 10 day taught course on NLP, and on occasion refers to other parts of that course. Just ignore those references - you only need the main content you need.
 
@@ -57,8 +65,7 @@ You are welcome to use different Python tools in the workshop, but we will not b
 
 #### Machine learning
 
-Although not essential, you will get more out of the workshop if you have some knowledge of machine learning.
-
+Although not essential, you will get more out of the workshop if you have some knowledge of machine learning. A good place to get a thorough introduction is the excellent [DATAMIND Machine Learning in Mental Health YouTube playlist](https://www.youtube.com/playlist?list=PLt7J6CW_cQg_lFKAnOYirgwM5qTB4jaGH). The first 8 videos will be the most useful, but the others are also relevant.
 
 
 ## Workshop - on-the-day agenda and contents
@@ -74,4 +81,6 @@ We will cover the following topics in the workshop, and will place links to the 
 - A simple neural network for text classification
 - Generative AI and prompt engineering
 
+## Further reading
 
+We will provide a reading list of further material after the workshop, for those of you who want to explore the topic further.
