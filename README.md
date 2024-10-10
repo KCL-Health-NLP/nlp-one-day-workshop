@@ -31,6 +31,8 @@ You can find links to the introductory video lectures below. You should watch th
 
 There are also links to some  introductory material on Python and machine learning for those of you who need it.
 
+**NB To download the slides, click a slide link below, then click the 3 dots to the right of the window that opens, and choose download.**
+
 #### Introduction to NLP for health research
 These two lectures motivate the need for NLP of electronic health records (EHR), and give a high level overview of methods used.
 
