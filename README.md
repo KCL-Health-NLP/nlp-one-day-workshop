@@ -29,15 +29,15 @@ Some of this pre-course material is taken from a 10 day taught course on NLP, an
 
 #### Modelling language
 
-- Modelling documents [Video lecture](https://media.kcl.ac.uk/media/modelling-language-documents-video/1_fv1owosr) [Slides](./pre-course-material/modelling-language-documents.pdf)
+- Modelling documents \[[Video lecture](https://media.kcl.ac.uk/media/modelling-language-documents-video/1_fv1owosr)\] \[[Slides](./pre-course-material/modelling-language-documents.pdf)\]
 - Modelling words [Video lecture](https://media.kcl.ac.uk/media/modelling-language-words-video/1_rc5qg9ti) [Slides](./pre-course-material/modelling-language-words.pdf)
 - Distributed representations [Video lecture](https://media.kcl.ac.uk/media/modelling-language-distributed-video/1_3rxamdmd) [Slides](./pre-course-material/modelling-language-distributed.pdf)
 
 #### Setting up clinical NLP studies
 *With credit to Dr Sumithra Velupillai who contributed this material whilst working at King's College London.*
 
-- Setting up clinical NLP studioes - Part A [Video lecture part A](https://media.kcl.ac.uk/media/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partA/1_ldeuexyq) [Slides](./pre-course-material/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partA.pptx)
-- **Setting up clinical NLP studioes - Part B [Video lecture part B](https://media.kcl.ac.uk/media/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partB/1_q5z7kjso) [Slides](./pre-course-material/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partB.pptx)
+- Setting up clinical NLP studies - Part A [Video lecture](https://media.kcl.ac.uk/media/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partA/1_ldeuexyq) [Slides](./pre-course-material/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partA.pptx)
+- **Setting up clinical NLP studies - Part B [Video lecture](https://media.kcl.ac.uk/media/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partB/1_q5z7kjso) [Slides](./pre-course-material/SV1-NLP_Intro-steps_to_set_up_clinical_NLP_partB.pptx)
 
 #### Introduction to Google Colab
 
