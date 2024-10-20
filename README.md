@@ -25,13 +25,9 @@ The course will be delivered through:
 - A one day hands-on practical workshop. This will mainly consist of Python practicals, interspersed with very short presentations.
 - Suggested reading for those of you who want to explore the topic further.
 
-## Pre-workshop material
-
 ## [Pre-workshop material](./pre-workshop.md)
 
-## Workshop - on-the-day agenda and contents
-
-[Workshop material](./workshop.md)
+## [Workshop - on-the-day agenda and contents](./workshop.md)
 
 ## Further reading
 
