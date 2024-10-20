@@ -10,7 +10,7 @@
 1. [Representing language: documents](#representing-language-documents)
 1. [Representing words: vector semantics](#representing-words-vector-semantics)
 1. [Playing with word embeddings](#playing-with-word-embeddings)
-1. [Supervised machine learning for simple text classification](#XXX)
+1. [Supervised machine learning for simple text classification](#supervised-machine-learning-for-simple-text-classification)
 1. [Neural networks](#neural-networks)
 1. [Generative AI](#generative-ai)
 
