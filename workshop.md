@@ -17,6 +17,3 @@ We will cover the following topics in the workshop, and will place links to the 
 - A simple neural network for text classification
 - Generative AI and prompt engineering
 
-## Further reading
-
-We will provide a reading list of further material after the workshop, for those of you who want to explore the topic further.
