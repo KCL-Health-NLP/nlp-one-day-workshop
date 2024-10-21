@@ -103,8 +103,22 @@ In this practical, you will create a word embedding from a small corpus and test
 
 *Content in progress*
 
+Now that we have ways to represent language numerically, we can build models of our texts from these representations, and use the models when processing the texts. There are many NLP tasks we might carry out. For example, we might use the models to identify specific entites in the text, such as medications; we might use them to help answer questions put by a user; or to create summaries of the text.
+
+We will look at one of the most widely used tasks, classification, in which we build models to assign one of several possible classes to a piece of text. This is a foundation of many other NLP techniques. Here are a few examples of how we might use classification:
+
+- **Texts**: patient reviews of a service. **Classes**: the sentiment of the review, "positive" and "negative"
+- **Texts**: sentences in a health record document. **Classes**: whether a sentence indicates that the patient is a smoker, "smoker", "non-smoker", "not stated".
+- **Texts**: individual words in a health record document. **Classes**: whether the word is the name of a medication.
+
+In each of these cases we can build a *supervised* model by providing training examples that have been pre-labelled with their classes (possibly by human labellers) to a classification algorithm. We can then apply this trained model to previously unseen texts, to predict the classes of those unseen texts.
+
+**Presentation:**
+In this presentation, we will outline the basic idea of supervised machine learning for NLP.
 - [Presentation: supervised machine learning for text classification](./presentations/word-embeddingsclassification.pdf) 
 
+**Practical:**
+In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
 - [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/classification.ipynb)
 
 
