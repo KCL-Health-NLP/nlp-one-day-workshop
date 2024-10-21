@@ -101,8 +101,6 @@ In this practical, you will create a word embedding from a small corpus and test
 ## Supervised machine learning for simple text classification
 [[back to top]](#top)
 
-*Content in progress*
-
 Now that we have ways to represent language numerically, we can build models of our texts from these representations, and use the models when processing the texts. There are many NLP tasks we might carry out. For example, we might use the models to identify specific entites in the text, such as medications; we might use them to help answer questions put by a user; or to create summaries of the text.
 
 We will look at one of the most widely used tasks, classification, in which we build models to assign one of several possible classes to a piece of text. This is a foundation of many other NLP techniques. Here are a few examples of how we might use classification:
@@ -115,7 +113,7 @@ In each of these cases we can build a *supervised* model by providing training e
 
 **Presentation:**
 In this presentation, we will outline the basic idea of supervised machine learning for NLP.
-- [Presentation: supervised machine learning for text classification](./presentations/word-embeddingsclassification.pdf) 
+- [Presentation: supervised machine learning for text classification](./presentations/classification.pdf) 
 
 **Practical:**
 In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
@@ -138,12 +136,21 @@ In this practical, we build a perceptron in Python, use it to model some simple 
 - [Python notebook: experiments with a single neuron](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/perceptrons.ipynb)
 
 **Presentation:**
-In this presentaiton we look at how we can extend the power of our perceptron, by using multiple neurons:
+In this presentation we look at how we can extend the power of our perceptron, by using multiple neurons:
 - [Presentation: multi-layer neural networks](./presentations/multi-layer-neural-networks.pdf) 
 
 **Practical:**
-Let's play with a bigger network, to solve more complex problems:
+Let's play with a bigger network, to solve more complex problems. This practical lets you create multi-layer networks to solve various problems:
 - [Web site: neural network playground](https://playground.tensorflow.org/)
+
+**Presentation:**
+So far we have looked at networks where all neurons in one layer are simply interonnected to all neurons in the next layer. In this presentation, we will look at other architectures:
+- [Presentation: further neural network architectures](./presentations/more-neural-networks.pdf) 
+
+**Practical:**
+In the last practical of this section, we will build a test classifier using the popular convolutional neural network (CNN) architecture:
+- [Python notebook: a CNN text classifier](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/cnn_text_classifier.ipynb)
+
 
 
 ## Generative AI
