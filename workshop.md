@@ -62,7 +62,7 @@ If we want to manipulate and analyse language computationally, we first need to 
 - How might you represent a document?
 - How might you visualise this?
 - How might we use this document representation?
-- Can you think of a waywe extend this to represent words?
+- Can you think of a way we could extend this to represent words?
 
 ## Representing words: vector semantics
 [[back to top]](#top)
@@ -123,7 +123,7 @@ In this practical, we will learn a model to assign medical specialties to health
 ## Neural networks
 [[back to top]](#top)
 
-We now have some ideas of how we might represent words and language numerically, encoding some aspects of meaning. We could use these representations in the type of models you will have seen in the prediction modelling part of the Youth Awards. For example, you could build a model that takes document vectors of product reviews as input, and predicts whether the review is a positive or negative one. Or, you might take vectors representing medical record sentences and predict whether the sentence is about a particular symptom. 
+We now have some ideas of how we might represent words and language numerically, encoding some aspects of meaning, and how we might use these representations as features in supervised machine learning models.
 
 Many modern NLP models make use of neural networks to do this kind of prediction. We will introduce and buid simple neural networks with a presentation and a couple of practials, and ask how might we use these with words and language? The practicals will model simple functions, rather than complex pieces of language.
 
@@ -144,11 +144,11 @@ Let's play with a bigger network, to solve more complex problems. This practical
 - [Web site: neural network playground](https://playground.tensorflow.org/)
 
 **Presentation:**
-So far we have looked at networks where all neurons in one layer are simply interonnected to all neurons in the next layer. In this presentation, we will look at other architectures:
+So far we have looked at networks where all neurons in one layer are simply interonnected to all neurons in the next layer. In this presentation, we will give a brief overview of other common architectures - convolutional neural networks (CNNs) and long short term memory (LSTM).
 - [Presentation: further neural network architectures](./presentations/more-neural-networks.pdf) 
 
-**Practical:**
-In the last practical of this section, we will build a test classifier using the popular convolutional neural network (CNN) architecture:
+**Practical (optional):**
+This last practical is quite involved, and uses advanced Python. It is only suggested you follow it if you are confident with your Python, have moved quickly through the other practicals, and have time. The  practical builds a movie review sentiment classifier using the popular convolutional neural network (CNN) architecture. The same ideas could be used for other text classification tasks.
 - [Python notebook: a CNN text classifier](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/cnn_text_classifier.ipynb)
 
 
