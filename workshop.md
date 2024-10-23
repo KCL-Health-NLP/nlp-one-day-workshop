@@ -167,6 +167,8 @@ For the practicals, we will use Meta's Llama 3 large language mmodel. This is to
 
 - [Python notebook: connecting to Hugging Face](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/hugging_face.ipynb)
 
+endoint: https://f9ctlf1rpteiq2sb.eu-west-1.aws.endpoints.huggingface.cloud
+
 In the second practical, we explore a key concept in the use of large language models - writing questions to get back consistent and useful information from the LLM - this is *prompt engineering*. We will also look at how we might give the LLM examples of the kinds of answers we want - referred to as *few shot learning*.
 
 - [Python notebook: experiments with Llama 3](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/llama.ipynb)
