@@ -29,6 +29,4 @@ The course will be delivered through:
 
 ## [Workshop - on-the-day agenda and contents](./workshop.md)
 
-## Further reading
-
-We will provide a reading list of further material after the workshop, for those of you who want to explore the topic further.
+## [Post-workshop - further reading](./reading.md)
