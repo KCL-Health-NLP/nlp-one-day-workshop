@@ -4,9 +4,8 @@
 *A one day workshop on NLP with a health record focus prepared for [MQ Mental Health Research](https://www.mqmentalhealth.org/) and [DATAMIND](https://datamind.org.uk/) by [King's College London Institute of Psychiatry, Psychology and Neuroscience](https://www.kcl.ac.uk/ioppn)*
 
 
-## To be added
-- discussion of fine tuning LLMs for other tasks
-- section on example applications
+## Example applications
+*To be added*
 
 ## Techniques
 
@@ -38,6 +37,8 @@
 **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**\
 *Authors:* Vaswani, Ashish\
 *Notes:* Original transformer paper
+
+**[Fine-tuning - see Jurafsky and Martin section 10.3.3 and the refernces contained there](https://web.stanford.edu/~jurafsky/slp3/)**\
 
 **[Llama how-to guide: prompting](https://www.llama.com/docs/how-to-guides/prompting/)**\
 *Notes:* Some ideas on prompting techniques, written with Llama in mind but broadly applicable.
