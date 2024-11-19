@@ -11,7 +11,7 @@ Suggested post-workshop reading
 
 ## Techniques
 
-###[Jurafsky and Martin: Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)###
+### [Jurafsky and Martin: Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 Author: Dan Jurafsky; James Martin
 
