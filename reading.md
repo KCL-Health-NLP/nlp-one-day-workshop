@@ -5,7 +5,6 @@
 
 
 ## To be added
-- a discussion of prompt engineering
 - discussion of fine tuning LLMs for other tasks
 - section on example applications
 
