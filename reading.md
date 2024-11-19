@@ -5,7 +5,12 @@
 
 
 ## Example applications
-*To be added*
+
+**[Cognitive Impairments in Schizophrenia: A Study in a Large Clinical Sample Using Natural Language Processing](https://pmc.ncbi.nlm.nih.gov/articles/PMC8521945/)**
+
+**[Can natural language processing models extract and classify instances of interpersonal violence in mental healthcare electronic records: an applied evaluative study](https://bmjopen.bmj.com/content/12/2/e052911)**
+
+**[Distributions of recorded pain in mental health records: a natural language processing based study](https://bmjopen.bmj.com/content/bmjopen/14/4/e079923.full.pdf)**
 
 ## Techniques
 
