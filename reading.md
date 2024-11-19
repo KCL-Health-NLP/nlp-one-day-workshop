@@ -40,6 +40,9 @@
 *Authors:* Vaswani, Ashish\
 *Notes:* Original transformer paper
 
+**[Llama how-to guide: prompting](https://www.llama.com/docs/how-to-guides/prompting/)**\
+*Notes:* Some ideas on prompting techniques, written with Llama in mind but broadly applicable.
+
 ## Motivations and systematic reviews
 
 **[Language, Structure, and Reuse in the Electronic Health Record](https://journalofethics.ama-assn.org/article/language-structure-and-reuse-electronic-health-record/2017-03)**\
