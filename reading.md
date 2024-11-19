@@ -11,7 +11,15 @@ Suggested post-workshop reading
 
 ## Techniques
 
-- Jurafsky and Martin
+[Jurafsky and Martin: Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+Author: Dan Jurafsky; James Martin Type: Website Tags: Recommended Student note: This is one of the main
+NLP reference and teaching texts. If you intend to study NLP in detail, you should read this. The web page linked
+here is for a new version under preparation, and the current draft of this is linked from the page. It includes
+material on state of the art NLP. 
+
+
+
+
 - a discussion of prompt engineering
 - fine tuning LLMs for other tasks
 
