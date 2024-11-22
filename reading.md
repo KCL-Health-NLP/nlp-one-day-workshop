@@ -45,6 +45,11 @@
 
 **[Fine-tuning - see Jurafsky and Martin section 10.3.3 and the refernces contained there](https://web.stanford.edu/~jurafsky/slp3/)**\
 
+**[Large Language Model Instruction Following: A Survey of Progresses and Challenges](https://direct.mit.edu/coli/article/50/3/1053/121669/Large-Language-Model-Instruction-Following-A)**\
+*Publication:* Computational Linguistics\
+*Authors:* Renze Lou, Kai Zhang, Wenpeng Yin\
+*Notes:* Covers prompt engineering and the broader topic of instruction following
+
 **[Llama how-to guide: prompting](https://www.llama.com/docs/how-to-guides/prompting/)**\
 *Notes:* Some ideas on prompting techniques, written with Llama in mind but broadly applicable.
 
